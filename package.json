@@ -1,0 +1,15 @@
+{
+  "name": "ai-character-generator",
+  "version": "1.0.0",
+  "description": "AI 캐릭터 생성기",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.21.2"
+  }
+}
